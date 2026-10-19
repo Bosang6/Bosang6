@@ -6,7 +6,7 @@ I enjoy developing interactive experiences, exploring game mechanics, and bringi
 
 ## Portfolio
 
-**Website:** https://bosang6.github.io/
+[View My Portfolio ↗](https://bosang6.github.io/Bosang6/)
 
 ## GitHub Stats
 
